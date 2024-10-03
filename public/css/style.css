@@ -1,0 +1,24 @@
+.button-group {
+    display: flex;
+    align-items: center;
+}
+
+.button-group button {
+    margin-right: 6px;
+}
+
+.w-5 {
+    max-width: 5% !important;
+}
+
+.w-10 {
+    max-width: 10% !important;
+}
+
+.w-15 {
+    max-width: 15% !important;
+}
+
+.w-20 {
+    max-width: 20% !important;
+}
